@@ -47,7 +47,6 @@ p {
 }
 
 a {
-  font-size: 2rem;
   color: #11999E;
   font-family: 'Merriweather', serif;
   margin: 10px 20px;
@@ -116,6 +115,7 @@ padding-bottom: 8px;
   text-decoration: none;
 }
 .footer-link {
+  font-size: 2rem;
   color: #11999E;
 }
 .skill-row {
